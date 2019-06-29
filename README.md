@@ -1,2 +1,0 @@
-# ProgressBar
-Created with CodeSandbox
